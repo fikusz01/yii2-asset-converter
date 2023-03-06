@@ -17,7 +17,7 @@
         "phpseclib/mcrypt_compat": "*",
         "yiisoft/yii2": "2.*",
         "oyejorge/less.php": "*",
-        "csegedicsaba/phpsass": "*",
+        "fikusz01/phpsass": "*",
         "leafo/scssphp": "*",
         "yourilima/scssphp-compass": "*",
         "yidas/yii2-bower-asset": "*"
